@@ -1,6 +1,4 @@
-# Tsundere bot 
+# Ai Bot
+●Ai Agent for you Chat
 
-
-Feel free to make changes. 
-Ask me if you have any questions I guess  
-brought to you by extremely low effort 
+Based in other project,i'm making updates according with i learned
